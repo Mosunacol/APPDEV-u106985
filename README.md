@@ -9,6 +9,8 @@ easy-to-read syntax, which makes it an ideal choice for beginners and experts al
 we will explore some of the key features of Python and why it is such a popular choice for
 programmers.
 
+![imagen_python](https://www.python.org/static/img/python-logo@2x.png)
+
 <h2>Why Python is Popular</h2>
 
 Python is a popular programming language for many reasons. Some of the key features that make
@@ -112,7 +114,7 @@ As the famous computer scientist, Guido van Rossum, the creator of Python, said:
 
 <h2>Resources</h2>
 
-• Python.org - The official website for Python, with a wealth of information and resources for
+• [Python.org](https://www.python.org/) - The official website for Python, with a wealth of information and resources for
 learning the language.
 
 • Python for Data Science Handbook - A free online book that provides a comprehensive
